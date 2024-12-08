@@ -70,3 +70,4 @@ The app has a switch for turning on dark mode.
 ## License
 
 Sort Visualizer is released under the [MIT License](https://choosealicense.com/licenses/mit/)
+# AlgoFlow
