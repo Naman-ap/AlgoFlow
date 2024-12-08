@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AlgoFlow/static/css/main.1f806fdd.chunk.css",
+    "main.js": "/AlgoFlow/static/js/main.6d0d921c.chunk.js",
+    "main.js.map": "/AlgoFlow/static/js/main.6d0d921c.chunk.js.map",
+    "runtime-main.js": "/AlgoFlow/static/js/runtime-main.cbb1986b.js",
+    "runtime-main.js.map": "/AlgoFlow/static/js/runtime-main.cbb1986b.js.map",
+    "static/js/2.64520bdb.chunk.js": "/AlgoFlow/static/js/2.64520bdb.chunk.js",
+    "static/js/2.64520bdb.chunk.js.map": "/AlgoFlow/static/js/2.64520bdb.chunk.js.map",
+    "index.html": "/AlgoFlow/index.html",
+    "precache-manifest.c76e94fa1cf55afb6add2727e0b0bdb7.js": "/AlgoFlow/precache-manifest.c76e94fa1cf55afb6add2727e0b0bdb7.js",
+    "service-worker.js": "/AlgoFlow/service-worker.js",
+    "static/css/main.1f806fdd.chunk.css.map": "/AlgoFlow/static/css/main.1f806fdd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb1986b.js",
+    "static/js/2.64520bdb.chunk.js",
+    "static/css/main.1f806fdd.chunk.css",
+    "static/js/main.6d0d921c.chunk.js"
+  ]
+}
